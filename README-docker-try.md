@@ -10,9 +10,6 @@ NeMo OpenFold LangChain for NVIDIA GenAI Contest
 
    ![create_a_new_machine](img/create_a_new_machine.png "create_a_new_machine")
 
-   ```bash
-   ssh paperspace@184.105.4.23
-   ```
 
 1. **Check if you can run Docker**:
 

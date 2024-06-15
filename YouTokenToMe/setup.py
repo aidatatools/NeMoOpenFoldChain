@@ -26,7 +26,7 @@ with io.open(
 
 setup(
     name="youtokentome",
-    version="1.0.6",
+    version="1.0.7",
     packages=find_packages(),
     description="Unsupervised text tokenizer focused on computational efficiency",
     long_description=LONG_DESCRIPTION,
@@ -48,6 +48,7 @@ setup(
         "Programming Language :: Python :: 3.9",
         "Programming Language :: Python :: 3.10",
         "Programming Language :: Python :: 3.11",
+        "Programming Language :: Python :: 3.12",
         "Programming Language :: Python :: Implementation :: CPython",
         "Programming Language :: Cython",
         "Programming Language :: C++",
